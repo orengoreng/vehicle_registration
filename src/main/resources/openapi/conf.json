@@ -1,0 +1,8 @@
+{
+  "basePackage":"com.demo.revenue",
+  "configPackage":"com.demo.revenue.config",
+  "apiPackage":"com.demo.revenue.controllers",
+  "modelPackage":"com.demo.revenue.model",
+  "groupId":"com.demo",
+  "artifactId":"vehicle-registration"
+}

@@ -1,0 +1,1 @@
+java -jar openapi-generator-cli-4.3.1.jar generate -g spring -i openapi.yaml -c conf.json -o spring-boot-codegenerator
