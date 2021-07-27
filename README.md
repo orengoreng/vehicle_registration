@@ -1,6 +1,6 @@
 
 # vehicle-registration
-Sample [Spring Boot MVC](http://projects.spring.io/spring-boot/) rest api to create vehicle, owner and register vehicle to owner. Uses [Swagger](https://swagger.io/) for rest template and memory database [h2](https://www.h2database.com/html/main.html)
+Sample [Spring Boot](http://projects.spring.io/spring-boot/) REST api to create vehicle, owner and register vehicle to owner. Uses [Swagger](https://swagger.io/) for rest template and memory database [h2](https://www.h2database.com/html/main.html)
 
 ## Requirement
 For building and running the application you need:
@@ -28,7 +28,7 @@ To open the main app page, enter this [link]
 http://localhost:8080/swagger-ui.html#/ 
 ```
 
-If you want to access the h2 database memory, click this [link](http://localhost:8080/h2-console) to open the console for database query. See the User table to search for user info.
+If you want to access the h2 database memory, click this [link](http://localhost:8080/h2-console) to open the console for database query. 
 
 ```shell
 localhost:8080/h2-console
